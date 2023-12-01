@@ -1,4 +1,4 @@
-<h1> CineHub - Movie Recomendation App </h1>
+<h1> CineHub - Movie Recommendation App </h1>
 
 <p>Welcome to <b>CineHub</b>, where movie magic meets personalized recommendations! 🌟
 
