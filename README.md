@@ -1,4 +1,13 @@
-<h1> CineHub - Movie Recomendation App </h1> 
+<h1> CineHub - Movie Recomendation App </h1>
+
+<p>Welcome to <b>CineHub</b>, where movie magic meets personalized recommendations! 🌟
+
+<b>CineHub</b> is a cutting-edge movie recommendation app developed for the <b> University Software Development Project II. </b> Dive into a world of cinematic delight as CineHub utilizes advanced algorithms to suggest films tailored to your unique tastes.</p>
+
+<h3>Key Features:</h3>
+<p> <b> 1. Smart Recommendations: </b> Our intelligent recommendation engine analyzes your viewing history and preferences to suggest movies you're sure to love. <br>
+<b> 2. User-Friendly Interface: </b>  Enjoy a sleek and intuitive design that makes navigating through movie options a breeze. <br>
+<b> 3. Search and Discover: </b> Explore a vast database of films, filter by genres, ratings, and more. Find your next favorite movie effortlessly. </p>
 
 <b> Screenshots: </b>
 <p> <img src="./images/ss1.png" width=750 height=650> </img> </p>
